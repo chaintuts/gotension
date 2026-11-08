@@ -1,0 +1,61 @@
+[
+    {
+        "name" : "Epiphone SG Standard",
+        "string_set" : "D'Addario E110XL+ 10.5-48",
+        "tuning_name" : "FACGCE",
+        "scale_length" : 24.75,
+        "tuning" : [ "F2", "A2", "C3", "G3", "C4", "E4" ],
+        "gauges" : [ 0.048, 0.038, 0.028, 0.018, 0.0135, 0.0105 ],
+        "material" : [ "nickel_wound", "nickel_wound", "nickel_wound", "plain_steel", "plain_steel", "plain_steel" ]
+    },
+
+    {
+        "name" : "Squier Jazz Bass V",
+        "string_set" : "Ernie Ball Regular Slinky Bass V",
+        "tuning_name" : "B Standard",
+        "scale_length" : 34.0,
+        "tuning" : [ "B0", "E1", "A1", "D2", "G2" ],
+        "gauges" : [ 0.13, 0.1, 0.085, 0.065, 0.045 ],
+        "material" : [ "nickel_wound", "nickel_wound", "nickel_wound", "nickel_wound", "nickel_wound" ]
+    },
+
+    {
+        "name" : "Squier Classic Vibe Baritone Telecaster",
+        "string_set" : "D'Addario Medium Baritone EXL157 14-68",
+        "tuning_name" : "CEGDBG",
+        "scale_length" : 27.0,
+        "tuning" : [ "C2", "E2", "G2" , "D3", "G3", "B3" ],
+        "gauges" : [ 0.068, 0.056, 0.044, 0.026, 0.018, 0.014 ],
+        "material" : [ "nickel_wound", "nickel_wound", "nickel_wound", "nickel_wound", "plain_steel", "plain_steel" ]
+    },
+
+    {
+        "name" : "Yamaha F325",
+        "string_set" : "Martin MA140 12-54",
+        "tuning_name" : "EG#BF#BD#",
+        "scale_length" : 25.5,
+        "tuning" : [ "E2", "G#2", "B2", "F#3", "B3", "D#4" ],
+        "gauges" : [ 0.054, 0.042, 0.032, 0.025, 0.016, 0.012 ],
+        "material" : [ "8020_wound", "8020_wound", "8020_wound", "8020_wound", "plain_steel", "plain_steel" ]
+    },
+
+    {
+        "name" : "Dean Edge 9",
+        "string_set" : "Ernie Ball Regular Slinky Bass",
+        "tuning_name" : "E Standard",
+        "scale_length" : 34.0,
+        "tuning" : [ "E1", "A1", "D2", "G2" ],
+        "gauges" : [ 0.105, 0.085, 0.065, 0.045 ],
+        "material" : [ "nickel_wound", "nickel_wound", "nickel_wound", "nickel_wound" ]
+    },
+
+    {
+        "name" : "Epoch LP4",
+        "string_set" : "Ernie Ball Not Even Slinky",
+        "tuning_name" : "EG#BF#BD#",
+        "scale_length" : 24.75,
+        "tuning" : [ "E2", "G#2", "B2", "F#3", "B3", "D#4" ],
+        "gauges" : [ 0.056, 0.044, 0.032, 0.024, 0.016, 0.012 ],
+        "material" : [ "nickel_wound", "nickel_wound", "nickel_wound", "plain_steel", "plain_steel", "plain_steel" ]
+    }
+]
